@@ -1,0 +1,54 @@
+.header{
+    width: 100%;
+    height: 250px;
+    
+}
+.img{
+    
+    width: 100%;
+    height: 350px
+    
+}.left_section{
+    width: 50%;
+    background-color: white;
+    float: left;
+    
+    
+}
+.form{
+    padding-top:100px ;
+}
+
+
+.right_section
+{
+    width: 50%;
+    background-color: white;
+    float: left;
+    
+}
+.haf{
+    padding-top: 100px;
+}
+.table{
+    width: 20px;
+    height: 30px;
+
+}
+.edit{
+    width: 18%;
+    height: 0px;
+    background-color: rgb(252, 250, 250);
+   padding-top: 5%;
+   padding-bottom: 30px;
+   float: left;
+}
+.archieve{
+    width:18%;
+    height: 0px;
+    background-color: rgb(252, 250, 250);
+   padding-top: 5%;
+   padding-bottom: 30px;
+   float: left;
+
+}
